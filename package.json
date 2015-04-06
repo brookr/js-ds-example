@@ -1,0 +1,30 @@
+{
+  "name": "data-structures",
+  "version": "0.0.1",
+  "description": "Basic examples of data structures, written in JS",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/brookr/js-ds-example"
+  },
+  "keywords": [
+    "data",
+    "structures",
+    "js"
+  ],
+  "author": "Brook Riggio",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/brookr/js-ds-example/issues"
+  },
+  "homepage": "https://github.com/brookr/js-ds-example",
+  "dependencies": {
+    "chai": "^2.2.0"
+  }
+}
